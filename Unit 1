@@ -1,4 +1,0 @@
-def Hello_world();
-print("Hellow world")
-
-Hello_world()
